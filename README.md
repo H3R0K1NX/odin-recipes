@@ -1,6 +1,6 @@
 # Odin Project Task #1[^1]
 ---
-A basic website to showcase different recepies. 
+A basic website to showcase different recipes. 
 
 
 
